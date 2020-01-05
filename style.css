@@ -119,7 +119,7 @@ btn-dark {
 
 /* Showcase */
 #showcase {
-  height: 92vh;
+  height: 94vh;
   color: #fff;
 }
 
@@ -306,6 +306,10 @@ footer {
   /* Showcase */
   #showcase .showcase-content {
     padding: 0 2rem;
+  }
+
+  #showcase .showcase-content h1 {
+    font-size: 2.6rem;
   }
 
   /*What We Do*/
